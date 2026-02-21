@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## 👋 안녕하세요 구창민입니다.
+## 💬 간단한 소개 
+- clean & simple,PHP & Node.js 개발자 입니다.
+## ⚡ 기술스텍
+- 개발 가능 언어 : PHP,NODE.JS,TYPESCRIPT
+- DB : MYSQL,POSTGRESSQL
+- 협업도구 : GIT
+ 
 <!--
 **ktmgw486/ktmgw486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
